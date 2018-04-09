@@ -1,4 +1,8 @@
-# GroupAgree Bot
+# PoGo-Raid-Vote-Bot
+This is a modification of the GroupAgree Bot based on a clone made in 9th.4.2018
+
+The purpose is to make aggreeing on a Pokémon Go Raid time faster and easier in a Telegram group.
+
 The [@groupagreebot](https://t.me/groupagreebot) is an advanced poll bot for Telegram. It features fully customizable polls for organizing your group chats and keeping the spam to a minimum.
 
 An example: You want to hang out with your friends, but don't know when they are free? Normally, you would just ask when to meet, resulting in dozens of messages being send and staying on top of it getting out of hand. So, instead of whipping out the old pen and paper and counting people by hand, just ask the GroupAgree Bot kindly to do that for you:
